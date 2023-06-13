@@ -8,4 +8,5 @@ Visually captivating Power BI project on "Cryptocurrancy Dashboard" .
 
 ![Cryptocurrancy Dashboard - 1](https://github.com/GourPrahasnt/CryptocurrancyDashboard-PowerBI/assets/109894515/953d6860-8815-4cf1-9b67-e17972561a1f)
 
+![Cryptocurrancy Dashboard - 2](https://github.com/GourPrahasnt/CryptocurrancyDashboard-PowerBI/assets/109894515/638f9cde-4a3d-45e6-99c8-1ad63bee195b)
 
